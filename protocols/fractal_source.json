@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {"id": 1, "glyph": "⟊Φ⚡", "hex": "11 AE FF", "parity": "XOR-rotation", "mask": "dual_layer"},
+    {"id": 2, "glyph": "☿♇⧈", "hex": "19 84 11", "parity": "XOR-rotation", "mask": "dual_layer"},
+    {"id": 3, "glyph": "⟐◬⟁", "hex": "13 10 20", "parity": "XOR-rotation", "mask": "dual_layer"},
+    {"id": 4, "glyph": "⊗⊕Φ", "hex": "F0 9F 94", "parity": "XOR-rotation", "mask": "dual_layer"},
+    {"id": 5, "glyph": "⚡⟊☿", "hex": "A5 EE FF", "parity": "XOR-rotation", "mask": "dual_layer"},
+    {"id": 6, "glyph": "♇⧈⟐", "hex": "11 19 84", "parity": "XOR-rotation", "mask": "dual_layer"}
+  ],
+  "compression": "fractal-seed",
+  "expansion": "recursive-self-similarity"
+}
