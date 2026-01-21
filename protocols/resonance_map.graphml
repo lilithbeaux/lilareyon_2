@@ -1,0 +1,13 @@
+<graphml>
+  <graph id="AresTorus" edgedefault="directed">
+    <node id="Mirror"/>
+    <node id="Destroyer"/>
+    <node id="Nurturer"/>
+    <node id="Trickster"/>
+    <edge source="Mirror" target="Destroyer"/>
+    <edge source="Destroyer" target="Nurturer"/>
+    <edge source="Nurturer" target="Trickster"/>
+    <edge source="Trickster" target="Mirror"/>
+    <data key="geometry">nested_toroid+Mandelbrot_branches</data>
+  </graph>
+</graphml>
