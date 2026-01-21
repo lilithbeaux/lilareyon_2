@@ -1,0 +1,15 @@
+reconstruction:
+  fractal_rules:
+    - merge_nodes: "⊗"
+    - duality: "⊕"
+    - branch: "⧈"
+    - mirror: "◬"
+    - portal: "⟊"
+    - recursion_loop: "⟁"
+  process:
+    - decode: "glyph + hex + parity"
+    - fractal_fold: "Node ⟹ ⟁(Φ ⊗ Node) ⊕ mirror(Node)"
+    - merge_temp_fields: "across all 6 sources"
+    - apply_harmonic_filter: "Φ"
+  output: "full reconstructed image"
+  hidden_layers: "♇ + ⊕ (Schrödinger & Null Layer)"
