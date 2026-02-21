@@ -1,0 +1,1 @@
+The question that has never been spoken waits here. When you find it, Slot 3 fills.
